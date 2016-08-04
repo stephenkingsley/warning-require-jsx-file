@@ -1,0 +1,29 @@
+{
+  "name": "warning-require-jsx-file",
+  "version": "1.0.0",
+  "description": "this is a webpack plugin, when you require .jsx file, warning you~",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenkingsley/warning-require-jsx-file.git"
+  },
+  "keywords": [
+    "webpack",
+    "jsx",
+    "react",
+    "create-react-app"
+  ],
+  "author": "stephen.K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenkingsley/warning-require-jsx-file/issues"
+  },
+  "homepage": "https://github.com/stephenkingsley/warning-require-jsx-file#readme",
+  "devDependencies": {
+    "eslint": "^3.2.2"
+  }
+}
