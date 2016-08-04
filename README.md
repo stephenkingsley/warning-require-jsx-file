@@ -2,7 +2,7 @@
 this is a webpack plugin, when you require .jsx file, warning you~
 
 ## USE
-    npm i --save-dev check-jsx-file
+    npm i --save-dev warning-require-jsx-file
 
 and then in your webpack file
 
